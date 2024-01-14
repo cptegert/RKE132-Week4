@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4Loops", "Week4Loops\Week4Loops.csproj", "{F5126CAA-AF6B-4A2C-B37F-55AD0A810EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOR-loopSAM", "FOR-loopSAM\FOR-loopSAM.csproj", "{1AB335B3-CFD9-4578-BEA1-B1F11825CF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5126CAA-AF6B-4A2C-B37F-55AD0A810EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5126CAA-AF6B-4A2C-B37F-55AD0A810EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5126CAA-AF6B-4A2C-B37F-55AD0A810EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5126CAA-AF6B-4A2C-B37F-55AD0A810EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB335B3-CFD9-4578-BEA1-B1F11825CF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB335B3-CFD9-4578-BEA1-B1F11825CF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB335B3-CFD9-4578-BEA1-B1F11825CF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB335B3-CFD9-4578-BEA1-B1F11825CF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64AEDB5-DA42-4CBA-B340-2D55E555F491}
+	EndGlobalSection
+EndGlobal
